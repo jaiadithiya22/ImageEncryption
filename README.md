@@ -1,4 +1,5 @@
-Image Encryption Project
+**Image Encryption Project**
+
 Overview
 This project provides a way to encrypt and decrypt images using block-wise operations and a simple XOR encryption scheme. The image is divided into smaller blocks, which are then shuffled, encrypted with a key, and reconstructed into an encrypted image. The decryption process involves reversing these steps using the saved key and block order.
 
