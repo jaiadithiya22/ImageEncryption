@@ -78,5 +78,5 @@ Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 Contact
-For any questions or issues, please contact [Your Name] at [jaiadithiya11@gmail.com].
+For any questions or issues, please contact Jai Adithiya at jaiadithiya11@gmail.com
 
